@@ -1,4 +1,4 @@
-# Hi! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="64">
+# Hi! 👋
 
 I'm Ahmad Farhan, a Web Developer & Blogger. Besides, i also like to learn Python language.
 
