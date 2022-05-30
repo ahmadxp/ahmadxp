@@ -12,14 +12,15 @@ I'm Ahmad Farhan, a Web Developer & Blogger. Besides, i also like to learn Pytho
 - JavaScript
 - Go
 
-#### Development Skills:
+#### CMS / Framework:
 - Bootstrap
 - NodeJS
 - CodeIgniter
 - Hugo
+- WordPress
+- Blogger
 
 #### Other
 - Editing (Photoshop, Premiere Pro, Kdenlive, Pixellab)
-- WordPress
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afokay&layout=compact&theme=dracula)](https://github.com/afokay/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afokay&layout=compact&theme=dracula)
