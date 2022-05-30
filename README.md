@@ -2,8 +2,6 @@
 
 I'm Ahmad Farhan, a Web Developer & Blogger. Besides, i also like to learn Python language.
 
-![afokay Github Stats](https://github-readme-stats.vercel.app/api?username=afokay&show_icons=true&theme=dracula)
-
 #### My Skills:
 Python / PHP / HTML / CSS / JavaScript / Go
 
@@ -13,4 +11,4 @@ Bootstrap / NodeJS / CodeIgniter / Hugo / WordPress
 #### Other
 Editing (Photoshop, Premiere Pro, Kdenlive, Pixellab)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afokay&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afokay&layout=compact&theme=dracula) ![afokay Github Stats](https://github-readme-stats.vercel.app/api?username=afokay&show_icons=true&theme=dracula)
