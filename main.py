@@ -7,7 +7,7 @@ from colorama import Fore, init
 init(autoreset=True)
 
 # Configuration
-REPO_PATH = os.path.expanduser("~/path/to/your/repository")  # Change with your local repository path
+REPO_PATH = os.path.expanduser("~/bot/auto-commit")  # Change with your local repository path
 FILE_TO_MODIFY = "stamp.txt"  # File will be modified for commit
 
 # List random commit messages
@@ -75,7 +75,7 @@ def main():
             print("No commit has been made yet", end='\r')
 
         # Check if now is 15:00
-        if now.hour == 15 and now.minute == 0 and last_commit_day != now.day:
+        if now.hour == 15 and now.minute == 25 and last_commit_day != now.day:
             perform_commit()
             last_commit_day = now.day
             # Wait 1 minute to avoid multiple commits at the same time
