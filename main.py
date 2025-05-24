@@ -75,7 +75,7 @@ def main():
             print("No commit has been made yet", end='\r')
 
         # Check if now is 15:00
-        if now.hour == 20 and now.minute == 43 and last_commit_day != now.day:
+        if now.hour == 0 and now.minute == 5 and last_commit_day != now.day:
             perform_commit()
             last_commit_day = now.day
             # Wait 1 minute to avoid multiple commits at the same time
